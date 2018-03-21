@@ -11,8 +11,8 @@ A CIDR Address is of the form "ipaddress/bits" where:
   ip addresses.
 
 Only 64 bits are tracked in IPv6. If you need more (like the full 128),
-pass in your precision bits as the second argument to the constructor
-Nobody uses more than 64-bits.
+pass in your precision bits as the second argument to the constructor.
+(Nobody needs more than 64-bits.)
 
 ## Install
 
