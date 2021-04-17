@@ -1,6 +1,6 @@
 {
   "name": "cidr-address",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "CIDR Address matching for IPv4 and IPv6 internet addresses",
   "main": "index.js",
   "scripts": {
@@ -25,6 +25,9 @@
   "homepage": "https://github.com/afair/cidr-address.js#readme",
   "devDependencies": {
     "chai": "^4.1.2",
-    "mocha": "^5.0.4"
+    "mocha": "^8.3.2"
+  },
+  "dependencies": {
+    "npm-check-updates": "^11.4.1"
   }
 }
