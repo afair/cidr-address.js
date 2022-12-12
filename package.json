@@ -28,6 +28,6 @@
     "mocha": "^8.3.2"
   },
   "dependencies": {
-    "npm-check-updates": "^11.4.1"
+    "npm-check-updates": "^16.5.6"
   }
 }
