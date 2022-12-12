@@ -1,6 +1,6 @@
 {
   "name": "cidr-address",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CIDR Address matching for IPv4 and IPv6 internet addresses",
   "main": "index.js",
   "scripts": {
